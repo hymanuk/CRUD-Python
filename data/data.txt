@@ -1,0 +1,4 @@
+Nama Barang		Harga Satuan		Volume		Total Harga
+Ikan			2000			2		4000
+Kambing			25000			25		625000
+Pindang			20000			35		700000
